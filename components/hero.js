@@ -7,9 +7,9 @@ function Hero() {
             <h2 className= "text-6xl font-bold">Rick Astley</h2>
             <h3 className= "text-4xl">I&apos;m never gonna give you up</h3>
             <p>
-                I’m a software engineer specializing in building (and
+                I&apos;m a software engineer specializing in building (and
                 occasionally designing) exceptional digital experiences.
-                Currently, I’m focused on building accessible, human-centered
+                Currently, I&apos;m focused on building accessible, human-centered
                 products.
             </p>
         </div>
